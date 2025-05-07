@@ -1,3 +1,4 @@
 are 4 picioare
 traieste pe pamant
-este carnivor
+Este carnivor
+este rapid
